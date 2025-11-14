@@ -9,4 +9,4 @@ cmd
 
 ## Exemplo
 
-C:\ListaPastasETamanhosCSV.bat users tamanho_usuarios.csv
+> C:\ListaPastasETamanhosCSV.bat users tamanho_usuarios.csv
